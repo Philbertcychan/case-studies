@@ -18,3 +18,6 @@ To identify high-potential global regions for enterprise AI expansion, evaluate 
 - `notebooks/` – Jupyter notebooks for cleaning, analysis, modeling
 - `dashboard/` – Streamlit app (if built)
 - `report/` – Final strategic memo and visuals
+
+## 📊 Slide Deck
+[Download the full presentation (PDF)](./assets/cohere_case_study_slide_deck.pdf)
