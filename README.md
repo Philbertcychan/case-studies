@@ -9,3 +9,4 @@ Each project is inspired by a real-world job posting, company, or strategic busi
 | Project | Focus | Link |
 |--------|-------|------|
 | **Cohere** | Go-to-market, pricing, AI infra strategy | [cohere_case_study](./cohere_case_study) |
+| **Anthropic** | Strategy, GTM, competitive analysis | [anthropic](./anthropic) |
